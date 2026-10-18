@@ -9,7 +9,7 @@ redirect_from:
 
 I am Yunjung (Yunie) Ku, Ph.D., an applied linguist and lecturer in the Department of English Education at Seoul National University. I earned my Ph.D. in Linguistics from Georgetown University in 2025. Along the way, I explored a little bit of everything—from task-based language teaching and corpus linguistics to the fascinating (and sometimes puzzling) world of prepositions. My research interests may have taken a few detours, but curiosity has always been the driving force! These days, my research focuses on second language acquisition, individual differences across diverse language learning contexts, international mobility, and multilingualism. I am particularly interested in understanding how language learning unfolds differently depending on who learners are, where they are, and the social worlds they navigate.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+ 
 
 A data-driven personal website
 ======
